@@ -2,6 +2,9 @@
 	height: 600px!important;
     width: 70%;
 }
+#showList{
+	width:25%;
+}
 .fltLeft {
 	float:left;
 }
